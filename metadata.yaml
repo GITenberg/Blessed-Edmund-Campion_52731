@@ -1,0 +1,40 @@
+_repo: Blessed-Edmund-Campion_52731
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Smart, John
+    gutenberg_agent_id: '34244'
+    url: http://www.gutenberg.org/2009/agents/34244
+  - agent_name: Durden, James
+    birthdate: 1878
+    deathdate: 1964
+    gutenberg_agent_id: '24736'
+    url: http://www.gutenberg.org/2009/agents/24736
+creator:
+  author:
+    agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L. I.
+    - Guiney, L.I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+description: ''
+gutenberg_issued: '2016-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesuits -- England'
+- !lcsh 'Campion, Edmund, Saint, 1540-1581'
+- !lcc 'BX'
+- !lcsh 'Christian martyrs -- Great Britain -- Biography'
+- GITenberg
+title: Blessed Edmund Campion
+url: http://www.gutenberg.org/ebooks/52731
